@@ -1,4 +1,4 @@
-/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/ApiWorker/TrustModifier.java
-/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/ApiWorker/HelpMessage.java
-/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/ApiWorker/HttpsClient.java
-/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/ApiWorker/SemaphoreConnector.java
+/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/SemaphoreAPIExecutor/HttpsClient.java
+/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/SemaphoreAPIExecutor/SemaphoreConnector.java
+/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/SemaphoreAPIExecutor/ArgsHandler.java
+/home/oa-engineer/Workspace/SemaphoreAPIExecutor/SemaphoreAPIExecutor/src/main/java/SemaphoreAPIExecutor/TrustModifier.java
