@@ -1,7 +1,7 @@
 ### SemaphoreAPIExecutor
 This program can helps you to execute Ansible Semaphore tasks by Semaphore API.
 
-If you need to execute Semaphore tasks you can execute this program with following parameters:
+If you need to execute Semaphore tasks you can run this program with following parameters:
 ```
 usage: semaphorexec [-h] [-i <arg>] [-k] [-p <arg>] [-P <arg>] [-t <arg>]
        [-U <arg>] [-y <arg>]
