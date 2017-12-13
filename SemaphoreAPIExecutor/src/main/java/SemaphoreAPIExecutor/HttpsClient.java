@@ -1,6 +1,7 @@
 package SemaphoreAPIExecutor;
 
 
+
 import org.apache.commons.cli.*;
 
 import java.net.HttpURLConnection;
@@ -38,7 +39,7 @@ public class HttpsClient extends SemaphoreConnector {
 
         new ArgsHandler(args);
         ArgsHandler.SKIP_SSL_CHECK = ArgsHandler.COMMAND_LINE.hasOption("skip");
-        if (ArgsHandler.COMMAND_LINE.hasOption("help")) {
+        if ((ArgsHandler.COMMAND_LINE.hasOption("help")) || ((args.length == 0))) {
             HelpFormatter helpFormatter = new HelpFormatter();
             helpFormatter.printHelp(ArgsHandler.SyntaxHelp, ArgsHandler.SyntaxHeader, ArgsHandler.POSIX_OPTIONS, ArgsHandler.SyntaxFooter, true);
         } else {
