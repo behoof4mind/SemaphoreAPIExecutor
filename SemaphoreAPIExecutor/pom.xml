@@ -22,7 +22,7 @@
     <dependencies>
       <!-- Camel BOM -->
       <dependency>
-        <groupId>org.apache.cam2el</groupId>
+        <groupId>org.apache.camel</groupId>
         <artifactId>camel-parent</artifactId>
         <version>2.20.1</version>
         <scope>import</scope>
